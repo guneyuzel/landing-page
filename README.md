@@ -1,6 +1,5 @@
 # Landing-Page
 
-- This is a webpage template made by [guneyuzel](https://github.com/guneyuzel) in conjunction with the "Odin Project".
-- Feel free to use it as a template.
+Modern landing page created with HTML and CSS.
 
-## _[View the site](https://guneyuzel.github.io/landing-page/)_
+[Live Demo](https://guneyuzel.github.io/landing-page/) :point_left:
